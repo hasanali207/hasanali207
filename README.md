@@ -27,6 +27,9 @@
  
 <p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
 <h2>GitHub Stats</h2>
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=vue-dark&hide_border=true' />
+
+
 <p>Github Stats</p>
   <a href="https://www.buymeacoffee.com/hasanali207" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
