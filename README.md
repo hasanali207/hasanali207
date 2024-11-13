@@ -3,6 +3,24 @@
 <a href="https://www.instagram.com/hasanali207/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/hasanali207/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/hasanali207"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
 <h2>About Me</h2>
 <p>Hi, I'm Hasan Ali. I am a Front End Web Developer. I Have been doing Web Design and Development For the last 3 years My strongest Skills are React, JavaScript, MongoDB, Node Js, Tailwind, Bootstrap, Sass, CSS, Html React Framework, Web Design, Fronted Development, and an exquisite blend of experience in JavaScript. I take every job very seriously and give each job 100% Accuracy. </p>
+
+<p>🎯 I am currently focused on improving my problem-solving skills and learning new technologies to stay up-to-date with the evolving landscape of web development. </p>
+
+<h1>📚 Currently exploring: </h1>
+
+<ul> 
+    <li> Advanced JavaScript techniques
+</li>
+    <li> Cloud solutions (AWS, Mongoose, Typescript)
+</li>
+  
+ </ul>
+<p>🚀 Let's connect! Feel free to explore my repositories and check out the projects I've worked on. I’m always open to collaboration opportunities. </p>
+
+
+
+
+
 <h4>:computer: Technologies that I know</h4>
 
 <br>
@@ -30,21 +48,5 @@
 <div  align="center"> <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hasanali207&theme=vue-dark&hide_border=true' /> </div>
 
 
-<div> 
 
-
-<p>🎯 I am currently focused on improving my problem-solving skills and learning new technologies to stay up-to-date with the evolving landscape of web development. </p>
-
-📚 Currently exploring:
-
-<ul> 
-    <li> Advanced JavaScript techniques
-</li>
-    <li> Cloud solutions (AWS, Mongoose, Typescript)
-</li>
-  
- </ul>
-<p>🚀 Let's connect! Feel free to explore my repositories and check out the projects I've worked on. I’m always open to collaboration opportunities. </p>
-
-</div>
 
