@@ -23,7 +23,7 @@
 </li>
   
  </ul>
-<p>🚀 Let's connect! Feel free to explore my repositories and check out the projects I've worked on. I’m always open to collaboration opportunities. </p>
+<p> <b>🚀 Let's connect! Feel free to explore my repositories and check out the projects I've worked on. I’m always open to collaboration opportunities. </b> </p>
 
 
 
