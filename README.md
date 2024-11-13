@@ -29,3 +29,22 @@
 <h2>GitHub Stats</h2>
 <div  align="center"> <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hasanali207&theme=vue-dark&hide_border=true' /> </div>
 
+
+<div> 
+
+
+<p>🎯 I am currently focused on improving my problem-solving skills and learning new technologies to stay up-to-date with the evolving landscape of web development. </p>
+
+📚 Currently exploring:
+
+<ul> 
+    <li> Advanced JavaScript techniques
+</li>
+    <li> Cloud solutions (AWS, Mongoose, Typescript)
+</li>
+  
+ </ul>
+<p>🚀 Let's connect! Feel free to explore my repositories and check out the projects I've worked on. I’m always open to collaboration opportunities. </p>
+
+</div>
+
