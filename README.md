@@ -29,7 +29,7 @@
 
 
 
-<h4>:computer: Technologies that I know</h4>
+<h2>:computer: Technologies that I know</h2>
 
 <br>
 <p align="center">
