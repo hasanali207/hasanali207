@@ -19,7 +19,7 @@
 <ul> 
     <li> Advanced JavaScript techniques
 </li>
-    <li> Cloud solutions (AWS, Mongoose, Typescript)
+    <li> Cloud solutions (Mongoose, Typescript)
 </li>
   
  </ul>
