@@ -27,5 +27,5 @@
  
 <p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
 <h2>GitHub Stats</h2>
-<div  align="center"> <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=vue-dark&hide_border=true' /> </div>
+<div  align="center"> <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hasanali207&theme=vue-dark&hide_border=true' /> </div>
 
