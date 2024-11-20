@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/C9DyX89/Web-Developer.jpg" alt="Hasan Ali GitHub README header image"> 
+<img src="https://i.ibb.co.com/30cjRXf/Web-Developer.png" alt="Hasan Ali GitHub README header image"> 
 
 <a href="https://www.linkedin.com/in/hasanali207/" >
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
